@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">My Calculator</string>
+
+    <string name="noll">0</string>
+    <string name="bir">1</string>
+    <string name="ikki">2</string>
+    <string name="uch">3</string>
+    <string name="tort">4</string>
+    <string name="besh">5</string>
+    <string name="olti">6</string>
+    <string name="etti">7</string>
+    <string name="sakis">8</string>
+    <string name="toqis">9</string>
+
+    <string name="clear">C</string>
+    <string name="exponent">^</string>
+    <string name="qavislar">( )</string>
+    <string name="buluv">÷</string>
+    <string name="kupaytruv">×</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="yoki">+/-</string>
+    <string name="tochka">.</string>
+    <string name="teng">=</string>
+
+    <string name="beckspace"> </string>
+
+    <string name="display"></string>
+
+</resources>
